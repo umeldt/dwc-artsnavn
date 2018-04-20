@@ -1,0 +1,6 @@
+Revision history for Perl extension DwC::Plugin::Artsnavn.
+
+0.01  Thu Apr 19 14:45:45 2018
+	- original version; created by h2xs 1.23 with options
+		-AX DwC::Plugin::Artsnavn
+

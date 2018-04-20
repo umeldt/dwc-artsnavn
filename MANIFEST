@@ -1,0 +1,13 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/dwc-artsnavn.t
+lib/DwC/Plugin/Artsnavn.pm
+share/artsnavn.db
+share/artsnavn.db.idx.Rekke.lex
+share/artsnavn.db.idx.Rike.lex
+share/artsnavn.db.idx.Slekt.lex
+share/artsnavn.db.idx.Klasse.lex
+share/artsnavn.db.idx.Familie.lex
+share/artsnavn.db.idx.Orden.lex
